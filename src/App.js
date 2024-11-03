@@ -40,7 +40,6 @@ function App() {
       <button
         onClick={resetHandler}
         className="bg-[#0398d4] text-white px-5 py-2 rounded-sm text-lg"
-        
       >
         Reset
       </button>
